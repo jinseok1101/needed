@@ -5,7 +5,7 @@
 
 import random
 
-l = list(input('Please enter words to mix : '))
+l = list(input('섞을 것들을 넣어주세요. : '))
 
 random.shuffle(l)
 
