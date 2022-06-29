@@ -12,7 +12,7 @@ while True:
 		print(sum(c)/len(c))
 		break
 	else:
-		s = input('ghgyguygy : ')
+		s = input('평균은 : ')
 		b.append(s)
 		
 
