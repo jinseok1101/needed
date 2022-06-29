@@ -6,8 +6,8 @@
 import string
 import random
 
-a = int(input('How many lines should I make? : '))
-b = int(input('How long should I make it? : '))
+a = int(input('몇개나? : '))
+b = int(input('얼마나 길게 : '))
 
 for x in range(a):
 	print('\n')
